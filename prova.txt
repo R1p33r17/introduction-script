@@ -1,4 +1,0 @@
-birth_year = int(input('when do you born? Input your year.. '))
-actual_year= 2025
-age= actual_year - birth_year
-print(f'You\'re ... \n {age} !!!')
