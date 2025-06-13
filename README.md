@@ -1,3 +1,3 @@
 # introduction-GIT with GitHub
 ##############################
-# I want to make new python bases project 
+# Use this repo to deploy sample.war on Tomcat by Jenkins
